@@ -5,7 +5,7 @@
 #### I build things for the web.
 I have been building Front to Back Web Solutions for the past four years. I am fascinated by clean, simple code and believe in being language agnostic.
 
-Skills: ANGULAR / ANGULARJS / REACT / JS / HTML / CSS / RUST / BASH
+Skills: ANGULAR / ANGULARJS / REACT / JS / HTML / CSS / RUST / BASH / NODE
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickithadi)](https://github.com/anuraghazra/github-readme-stats)

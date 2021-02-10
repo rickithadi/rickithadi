@@ -10,7 +10,7 @@ Skills: ANGULAR / ANGULARJS / REACT / JS / HTML / CSS / RUST / BASH / NODE
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickithadi)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on  making [Strenk.io](https://strenk.io) the best strength training platform out there and [honglimpark.sg](honglimpark.sg) among other things. 
-- 🚀 I have a keen interest in quant trading and using my knowledge of data and automation to optimize positions. Have been actively involved in HFT as of late.
+- 🚀 I have a keen interest in quant trading and using my knowledge of data and automation to optimize positions. Have been actively involved in aautomatic rebalancingg as of late.
 - 👯 I’m looking to collaborate on  on projects furthering digital and political freedoms, tech education, open governance. I'm also really into strength training and maximising athletic performance through the use of technology. 
 - 📫 How to reach me:  [rickithadi.com](rickithadi.com)  or rickithadi@gmail.com
 

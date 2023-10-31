@@ -8,7 +8,7 @@ I have been building Front to Back Web Solutions for the past half decade. I am 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickithadi)](https://github.com/anuraghazra/github-readme-stats)
-- 🚀 I have a keen interest in quant trading and using my knowledge of data and automation to optimize positions. Have been actively involved in automatic rebalancing as of late.
+- 🚀 I have a keen interest in making useful things.
 - 👯 I’m looking to collaborate on  on projects furthering digital and political freedoms, tech education, open governance. I'm also really into strength training and maximising athletic performance through the use of technology. 
 - 📫 How to reach me:  [rickithadi.com](rickithadi.com)  or rickithadi@gmail.com
 
